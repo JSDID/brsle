@@ -43,5 +43,3 @@ anchors.forEach(function (item) {
     }, animationTime / framesCount);
   });
 });
-
-// https://www.youtube.com/watch?v=fTeJBNV-Gu8
