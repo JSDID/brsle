@@ -1,0 +1,48 @@
+@media only screen and (max-width : 480px) {
+  .main__img01 {
+    padding: 20px;
+  }
+
+  .main__img02 {
+    margin-top: 100px;
+  }
+}
+
+@media only screen and (max-width : 768px) {
+  .main__img02 {
+    margin-top: 100px;
+  }
+
+  .title_h2 {
+    margin-top: 0px;
+  }
+}
+
+@media only screen and (max-width : 992px) {
+
+  .main__img02,
+  .title_h2 {
+    margin-top: 100px;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+
+  .main__item,
+  .main__images {
+    flex-direction: column;
+  }
+
+  .cost__item {
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+
+  .main__images {
+    margin-top: 0px;
+  }
+
+  .title_h2 {
+    margin-top: 0px;
+  }
+}
